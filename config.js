@@ -8,7 +8,7 @@ const CONFIG = {
     btnYes: 'Đẹp trai ^^!!',
     btnNo: 'Đéo, mơ à ?:3',
     question:'Mình có đôi lời chúc đến bạn',
-    btnReply: 'gõ 12a2 để xem  <3',
+    btnReply: 'gõ thiện đẹp trai để xem  <3',
     reply: 'Miệt mài suốt bao đêm thêu dệt những ước mơ, hãy biến ước muốn của bạn đã thành hiện thực. Thành công và hạnh phúc sẽ luôn đồng hành cùng bạn!',
     mess: 'tôi biết các bạn mệt mõi mà áp lức lặp như mà cố lên !!',
     messDesc: 'còn vài hôm nữa thôi!!.',
