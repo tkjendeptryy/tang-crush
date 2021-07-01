@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Heluu các bạn mình là Thiện đây!',
-    introDesc: `còn vài ngày nữa là đến kì thi quan trọng của thời đi học `,
-
+    introDesc: `còn vài ngày nữa là đến kì thi quan trọng của thời đi học
+                   nên là`,
     btnIntro: 'Mình muốn nói với các bạn là ^^',
     title: 'mà trước khi nói mình muốn hỏi là 😙',
     desc: 'các bạn thấy mình như nào! ',
