@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Heyyyy! chào người anh em tôi thấy bạn có vẻ hơi bị sờ chét ^^!',
+    introTitle: 'Heyyyy! chào người anh em tôi thấy bạn có vẻ hơi bị sờ chét^^!',
     introDesc: `còn vài ngày nữa là đến kì thi quan trọng của thời đi học
                    nên là tôi biết bạn có vẻ áp lực😘 `,
     btnIntro: 'Mình muốn nói với  bạn là ^^',
