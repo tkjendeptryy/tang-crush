@@ -1,19 +1,18 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    introTitle: 'Heyyyy! chào người anh em tôi thấy bạn có vẻ hơi bị sờ chét  ^^!',
+    introDesc: `còn vài ngày nữa là đến kì thi quan trọng của thời đi học
+                   nên là tôi biết bạn có vẻ áp lực😘 `,
+    btnIntro: 'Mình muốn nói với  bạn là ^^',
+    title: 'hãy tiếp tục cho dù kết quả như thế nào đi nữa bạn đã cố gắn hết sức ròi 😚😚',
+    desc: 'cố lên nào đừng suy nghĩ phức tạp nào ! ',
+   ! ',
+    btnYes: 'tiếp tục cố gắng đi bạn tôi!!',
+    btnNo: 'mệt mõi áp lực? ?:3',
+    question:'Mình có đôi lời chúc đến bạn',
+    btnReply: 'gõ tiếp tục để xem  <3',
+    reply: 'Miệt mài suốt bao đêm thêu dệt những ước mơ, hãy biến ước muốn của bạn đã thành hiện thực. Thành công và hạnh phúc sẽ luôn đồng hành cùng bạn!',
+    mess: 'tôi biết các bạn mệt mõi mà áp lức lặp như mà cố lên !!',
+    messDesc: 'còn vài hôm nữa thôi!!.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
